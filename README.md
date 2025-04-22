@@ -29,3 +29,4 @@ Aggregate Rating – Overall rating (0–5 scale).
 Rating Color & Rating Text – Visual representation and label for the rating (e.g., "Excellent", "Good").
 
 Votes – Number of user votes received.
+# The analysis aims to explore patterns in restaurant performance, consumer preferences, and market differences across regions.
