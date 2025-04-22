@@ -65,8 +65,17 @@ Most Frequent Negative Ratings:
 
  Restaurant Name  
  
- Barbeque Nation  28,142
+ Barbeque Nation           28,142
  
-AB's - Absolute Barbecues 13,400
+AB's - Absolute Barbecues  13,400
 
-Toit  10,934
+Toit                       10,934
+📉 Statistical Analysis:
+
+Correlation Between Votes and Aggregate Rating:
+
+Pearson Correlation Coefficient: 0.243
+
+P-value: 0.000
+
+✅ This correlation is statistically significant (p < 0.05), indicating a positive, though modest, relationship between the number of votes a restaurant receives and its average rating.
