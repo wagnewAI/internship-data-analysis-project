@@ -1,4 +1,4 @@
-# internship-data-analysis-project
+# Internship-data-analysis-project
 This project is focused on analyzing a dataset of restaurants across various cities and countries, with the goal of uncovering insights related to service offerings, pricing, and customer ratings.
 The dataset contains detailed information about restaurants, including location, services, cuisine types, cost, and customer feedback. It includes the following key columns:
 
