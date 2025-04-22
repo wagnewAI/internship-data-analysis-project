@@ -60,3 +60,10 @@ Most Frequent Negative Ratings:
 - Not Rated – 2,148 times
 
 - Poor – 186 times
+  
+🔥 Top Restaurants by Total Votes:
+
+Rank | Restaurant Name | Total Votes
+1 | Barbeque Nation | 28,142
+2 | AB's - Absolute Barbecues | 13,400
+3 | Toit | 10,934
