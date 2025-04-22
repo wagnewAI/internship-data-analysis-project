@@ -31,14 +31,14 @@ Rating Color & Rating Text – Visual representation and label for the rating (e
 Votes – Number of user votes received.
 - The analysis aims to explore patterns in restaurant performance, consumer preferences, and market differences across regions.
 📈 Key Insights:
-City with Most Restaurants:
+- City with Most Restaurants:
 New Delhi – 5,473 restaurants
 
-Highest Average Rating:
+- Highest Average Rating:
 Inner City – Average rating of 4.90
 
-Online Delivery Availability:
+- Online Delivery Availability:
 25.66% of restaurants offer online delivery
 
-Most Common Rating Range:
+- Most Common Rating Range:
 3.0 – 3.5 stars, with 2,502 restaurants falling in this category
