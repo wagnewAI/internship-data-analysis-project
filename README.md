@@ -70,6 +70,7 @@ Most Frequent Negative Ratings:
 AB's - Absolute Barbecues  13,400
 
 Toit                       10,934
+
 📉 Statistical Analysis:
 
 Correlation Between Votes and Aggregate Rating:
