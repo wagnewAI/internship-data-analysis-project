@@ -42,19 +42,20 @@ Inner City – Average rating of 4.90
 
 - Most Common Rating Range:
 3.0 – 3.5 stars, with 2,502 restaurants falling in this category
-  🗣️ Sentiment Breakdown (Based on Rating Text):
+
+🗣️ Sentiment Breakdown (Based on Rating Text):
 Most Frequent Positive Ratings:
 
-Good – 2,100 times
+- Good – 2,100 times
 
-Very Good – 1,079 times
+- Very Good – 1,079 times
 
-Excellent – 301 times
+- Excellent – 301 times
 
 Most Frequent Negative Ratings:
 
-Average – 3,737 times
+- Average – 3,737 times
 
-Not Rated – 2,148 times
+- Not Rated – 2,148 times
 
-Poor – 186 times
+- Poor – 186 times
